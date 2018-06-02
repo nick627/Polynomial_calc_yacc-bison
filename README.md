@@ -1,2 +1,0 @@
-# Polynomial_calculator_and_pseudolanguage
-Calculator polynomials
