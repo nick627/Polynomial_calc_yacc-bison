@@ -1,0 +1,43 @@
+$cc = 333x*0
+print $cc
+print 2^3^2
+print 0x
+print 1
+print x^0
+print x^2^0
+print (x-x)^(0^0)
+$aa = x-1
+$bb = x+1
+print $aa + $bb
+$aa = $aa + $bb
+print $aa
+
+
+$a = x+1
+$b = x-1
+$d = -1+1
+$c = -1* $d
+print $c
+$a = $a + $b
+$b = $a - $b*5
+$a = $a - $b
+print $a
+print $c
+print $b
+
+print (2^3)^2
+$aaa = x 
+///asdfghjkl;
+$bbb = $aaa * x^4
+//$bbb = 0^0
+print (-x^2-1+2*x)* ( x +1)
+//$ccc = 111111
+
+//print $ccc
+$ccc = 333x*0
+$ddd = ($aaa * $ccc + $bbb) * 100
+
+PRINT $aaa * 1234x^13
+PRINT $bbb 
+print $ccc
+PRINT $ddd 

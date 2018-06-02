@@ -1,0 +1,14 @@
+$cc = 333x*0
+print (x+y)
+print $cc
+print -3
+print 2^3^2
+print 0x
+print 1 -- 1
+print x^0
+$aa = (x-1)^2
+print 15000 + $aa
+$bb = x ++++ 1
+print $aa + $bb
+$aa = $aa + $bb
+print $aa

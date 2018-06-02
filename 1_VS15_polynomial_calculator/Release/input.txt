@@ -1,0 +1,47 @@
+print 2^(3^2)
+print (2)*x^((3)^(2))
+
+print (x-1)^(3^(2))
+
+//print (2^3)^(2^0)
+
+
+$a = x-1
+$b = -x+1
+$c = -1
+$a = $a + $b
+$b = $a - $b
+$a = $a - $b
+print 123z-1+1+0x+124*x
+print $a
+print $c
+print $b
+
+$a = x+1
+$b = x-1
+$d = -1+1
+$c = -1* $d
+print $c
+$a = $a + $b
+$b = $a - $b*5
+$a = $a - $b
+print $a
+print $c
+print $b
+
+print (2^3)^2
+$aaa = x 
+///asdfghjkl;
+$bbb = $aaa * ((x)^4)^5
+//$bbb = 0^0
+print (-x^2-1+2*x)* ( x +1)
+//$ccc = 111111
+
+//print $ccc
+$ccc = 333x*0
+$ddd = ($aaa * $ccc + $bbb) * 100
+
+PRINT $aaa * 1234x^13
+PRINT $bbb 
+print $ccc
+PRINT $ddd 

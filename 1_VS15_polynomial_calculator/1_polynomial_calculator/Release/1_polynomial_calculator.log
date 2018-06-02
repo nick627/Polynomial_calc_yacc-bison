@@ -1,0 +1,11 @@
+﻿  source.c
+source.c(425): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  source.c(425): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+source.c(593): warning C4013: yyparse: нет определения; предполагается "extern" с возвратом типа "int"
+  y_tab.c
+  Создание кода
+c:\users\nick\downloads\compilers\2_lab_polynomial_calculator_and_pseudolanguage\1_vs15_polynomial_calculator\1_polynomial_calculator\source.c(65): warning C4715: Search_Variable_In_Global_List: значение возвращается не при всех путях выполнения
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  1_polynomial_calculator.vcxproj -> C:\Users\Nick\Downloads\Compilers\2_lab_polynomial_calculator_and_pseudolanguage\1_VS15_polynomial_calculator\Release\1_polynomial_calculator.exe
+  1_polynomial_calculator.vcxproj -> C:\Users\Nick\Downloads\Compilers\2_lab_polynomial_calculator_and_pseudolanguage\1_VS15_polynomial_calculator\Release\1_polynomial_calculator.pdb (Full PDB)
